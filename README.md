@@ -33,6 +33,8 @@ For the moments, the categories are :
 25. Worst material and tangibility
 26. Worst readibility
 27. Superficial intelligence Map
+28. Worst Map for hiking
+29. Worst alternative to Google Maps and OpenStreetMap
 
 ## 💡 Any good ideas for bad maps ?
 
