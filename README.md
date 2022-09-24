@@ -37,7 +37,7 @@ For the moments, the categories are :
 💡 Any good ideas for bad maps ? Create a ticket on https://github.com/datagistips/30DayMapFailChallenge/issues
 
 ## Steps
-### Step 1 (October)
+### Step 1 (End of September - October)
 Collect category ideas
 
 ### Step 2 (October)
