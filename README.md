@@ -17,13 +17,15 @@ For the moments, the categories are :
 9. Worst inventivity
 10. Worst software
 11. Worst message
-12. Worst animation
-13. Worst relief map
-14. Worst flow map
-15. Worst hand-drawn map
-16. Worst statistics map
-17. Worst 3D Map
-18. Worst extrusion
+12. Worst intention
+13. Worst animation
+14. Worst relief map
+15. Worst flow map
+16. Worst hand-drawn map
+17. Worst statistics map
+18. Worst 3D Map
+19. Worst extrusion
+20. Worst understandability
 
 ## Contribute
 - We need ideas for categories (30 or 31)
