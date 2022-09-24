@@ -19,9 +19,11 @@ For the moments, the categories are :
 11. Worst message
 12. Worst animation
 13. Worst relief map
+14. Worst flow map
+15. Worst hand-drawn map
 
 ## Contribute
-- We need new categories (30 or 31)
+- We need ideas for categories (30 or 31)
 - We need catchy names for each category
 - A period (maybe the worst ?)
 
