@@ -21,6 +21,9 @@ For the moments, the categories are :
 13. Worst relief map
 14. Worst flow map
 15. Worst hand-drawn map
+16. Worst statistics map
+17. Worst 3D Map
+18. Worst extrusion
 
 ## Contribute
 - We need ideas for categories (30 or 31)
