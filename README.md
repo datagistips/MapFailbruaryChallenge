@@ -7,15 +7,15 @@ The idea is for you to create the new worst map
 For the moments, the categories are :
 
 1. Worst colors
-- Worst data
-- Worst symbols
-- Worst scale
-- Worst projection
-- Worst resolution
-- Worst interactivity
-- Rainbow is the new black
-- Worst inventivity
-- Worst software
+2. Worst data
+3. Worst symbols
+4. Worst scale
+5. Worst projection
+6. Worst resolution
+7. Worst interactivity
+8. Rainbow is the new black
+9. Worst inventivity
+10. Worst software
 
 ## Contribute
 - We need new categories (30 or 31)
