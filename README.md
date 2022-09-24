@@ -28,3 +28,13 @@ For the moments, the categories are :
 - A period (maybe the worst ?)
 
 💡 Any good ideas for bad maps ? Create a ticket on https://github.com/datagistips/30DayMapFailChallenge/issues
+
+## Steps
+### Step 1 (October)
+Collect category ideas
+
+### Step 2 (October)
+Make a poll for suggested ideas
+
+### Step 3 (Period to determine)
+Launch the challenge on twitter with #30DayMapFailChallenge hashtag
