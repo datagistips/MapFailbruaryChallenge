@@ -26,6 +26,8 @@ For the moments, the categories are :
 18. Worst 3D Map
 19. Worst extrusion
 20. Worst understandability
+21. Worst labels
+22. Worst decorations
 
 ## Contribute
 - We need ideas for categories (30 or 31)
