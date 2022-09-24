@@ -31,6 +31,7 @@ For the moments, the categories are :
 23. #nothingMap (See [#thingsMap](https://twitter.com/search?q=%23thingsmap&src=typed_query))
 24. Worst legend
 25. Worst material and tangibility
+26. Worst readibility
 
 ## 💡 Any good ideas for bad maps ?
 
