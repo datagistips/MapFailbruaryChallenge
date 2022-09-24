@@ -28,6 +28,9 @@ For the moments, the categories are :
 20. Worst understandability
 21. Worst labels
 22. Worst decorations
+23. #nothingMap (See [#thingsMap](https://twitter.com/search?q=%23thingsmap&src=typed_query))
+24. Worst legend
+25. Worst material and tangibility
 
 ## Contribute
 - We need ideas for categories (30 or 31)
