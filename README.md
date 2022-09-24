@@ -1,5 +1,5 @@
 # 30DayMapFailChallenge 🗺️🤢🏆🌟
-The official repository for #30DayMapChallenge, a daily mapping challenge open to everyone who will fail increating good maps.
+The official repository for #30DayMapChallenge, a daily mapping challenge open to everyone who will fail in creating good maps.
 
 The idea is for you to create the new worst map
 
@@ -15,6 +15,7 @@ For the moments, the categories are :
 - Worst interactivity
 - Rainbow is the new black
 - Worst inventivity
+- Worst software
 
 ## Contribute
 - We need new categories (30 or 31)
