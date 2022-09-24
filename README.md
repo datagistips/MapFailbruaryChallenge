@@ -32,12 +32,14 @@ For the moments, the categories are :
 24. Worst legend
 25. Worst material and tangibility
 
-## Contribute
+## 💡 Any good ideas for bad maps ?
+
+Tell me on Google Forms : https://forms.gle/dVAGmcQt3Fcz5pGb8  
+Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChallenge/issues
+
 - We need ideas for categories (30 or 31)
 - We need catchy names for each category
 - A period (maybe the worst ?)
-
-💡 Any good ideas for bad maps ? Create a ticket on https://github.com/datagistips/30DayMapFailChallenge/issues
 
 ## Steps
 ### Step 1 (End of September - October)
