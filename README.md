@@ -41,6 +41,8 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - We need catchy names for each category
 - A period (maybe the worst ?)
 
+Some contributions are already [here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/New-ideas.md)
+
 ## Steps
 ### Step 1 (End of September - October)
 Collect category ideas
