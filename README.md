@@ -32,6 +32,7 @@ For the moments, the categories are :
 24. Worst legend
 25. Worst material and tangibility
 26. Worst readibility
+27. Superficial intelligence Map
 
 ## 💡 Any good ideas for bad maps ?
 
