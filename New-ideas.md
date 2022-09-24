@@ -1,4 +1,7 @@
 # New ideas
+These are contributions collected on twitter or elsewhere.
+
+The next step will be a poll to select the 30 worst categories. 
 
 ## [@ocomarri](https://twitter.com/ocomarri)
 
