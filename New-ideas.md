@@ -1,7 +1,7 @@
 # New ideas
 These are contributions collected on twitter or elsewhere.
 
-The next step will be a poll to select the 30 worst categories. 
+[The next step will be a poll to select the 30 worst categories](https://github.com/datagistips/30DayMapFailChallenge/blob/main/README.md#step-2-october) 
 
 ## [@ocomarri](https://twitter.com/ocomarri)
 
