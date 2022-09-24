@@ -16,6 +16,9 @@ For the moments, the categories are :
 8. Rainbow is the new black
 9. Worst inventivity
 10. Worst software
+11. Worst message
+12. Worst animation
+13. Worst relief map
 
 ## Contribute
 - We need new categories (30 or 31)
