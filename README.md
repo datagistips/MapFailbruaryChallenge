@@ -125,5 +125,10 @@ Christmas time, lots of chocolates, ThanksGiving
 ### January
 All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
 
-### ➡️ Step 3 : Launching (February)
+### ➡️ Step 3 : Launch (February)
 Launch the challenge on twitter with #30DayMapFailChallenge hashtag
+
+## To-do list
+- Automatically collect tweets from the event hashtag and pake a page for it
+- Carefully select aweful maps and make a gallery
+- Get twitter stats for the event hashtag
