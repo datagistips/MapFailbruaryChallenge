@@ -12,7 +12,7 @@ It will be in February considering #30DayMapChallenge takes place in November an
 Also, February may be the worst month to make a challenge because :
 
 - The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge)
-- People concentrate their energy on choosing a Valentine's Day gift
+- People concentrate their creative energy on a Valentine's Day gift
 
 ## Hashtag
 To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
