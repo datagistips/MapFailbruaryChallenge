@@ -106,11 +106,11 @@ Some polls will be organized to select :
 - the hashtag for the event (the poll will be on twitter)
 
 ## Steps
-### Step 1 (End of September - October)
+### ➡️ Step 1 : Ideation (End of September - October)
 - Collect category ideas
 - Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
 
-### Step 2 (October)
+### ➡️ Step 2 : Selection (October)
 Make a poll to select the worst ideas
 
 ### 0ctober
@@ -125,5 +125,5 @@ Christmas time, lots of chocolates, ThanksGiving
 ### January
 All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
 
-### Step 3 (February)
+### ➡️ Step 3 : Launching (February)
 Launch the challenge on twitter with #30DayMapFailChallenge hashtag
