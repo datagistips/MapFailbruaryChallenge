@@ -79,6 +79,7 @@ For the moments, the ideas are :
 57. "that really should have been like 3 different maps"
 58. Worst Valentine's Day Map' ? 💔
 59. Shocking correlations
+60. Could have been a bar chart
 
 ### Contributors
 - [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
