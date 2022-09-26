@@ -80,6 +80,7 @@ For the moments, the ideas are :
 58. Worst Valentine's Day Map' ? 💔
 59. Shocking correlations
 60. Could have been a bar chart
+61. World is distorted, not my projection
 
 ### Contributors for this list of ideas
 - [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
