@@ -113,5 +113,17 @@ Some polls will be organized to select :
 ### Step 2 (October)
 Make a poll to select the worst ideas
 
+### 0ctober
+Mental preparation for #30DayMapChallenge
+
+### November
+#30DayMapChallenge
+
+### December
+Christmas time, lots of chocolates, ThanksGiving
+
+### January
+All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
+
 ### Step 3 (February)
 Launch the challenge on twitter with #30DayMapFailChallenge hashtag
