@@ -3,20 +3,6 @@ The official repository for #30DayMapFailChallenge, a daily mapping challenge op
 
 The idea is for you to create the new worst map
 
-## February
-It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
-
-- February is 2 months after, November is 2 months before
-- November = 11, 1 + 1 = 2 and 02 is February
-
-Also, February may be the worst month to make a challenge because :
-
-- The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge)
-- People concentrate their creative energy on a Valentine's Day gift
-
-## Hashtag
-To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
-
 ## Ideas of categories
 For the moments, the ideas are :
 
@@ -89,6 +75,21 @@ For the moments, the ideas are :
 - [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321)
 - [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336)
 - [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234)
+
+
+## Hashtag
+To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
+
+## February
+It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
+
+- February is 2 months after, November is 2 months before
+- November = 11, 1 + 1 = 2 and 02 is February
+
+Also, February may be the worst month to make a challenge because :
+
+- The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge)
+- People concentrate their creative energy on a Valentine's Day gift
 
 ## 💡 Any good ideas for bad maps ?
 
