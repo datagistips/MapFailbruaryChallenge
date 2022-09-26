@@ -70,6 +70,20 @@ For the moments, the ideas are :
 62. Most cluttered map
 63. World is distorted, not my projection
 64. Chuck Norris says : you do not need to know geography to be a cartographer
+65. JeT ScaLe CAn MeLT eYE bALLs
+66. NSFW
+67. Really NSFW
+68. My monitor was inverted, I swear
+69. Colorblind
+70. Chloropleth
+71. My Cartography Teacher Had A Checklist And This Map Ticks Them All
+72. Bees
+73. Teal
+74. Might contain nuts
+75. A map clearly made with ArcGIS© ℗®™
+76. Historic Map With Terrain Blender Render Bender
+77. Drop shadow connoisseur
+78. A map for Simon Küstenmacher|Katapult Magazin|Tin Fischer|... to exploit
 
 ### Contributors for this list of ideas
 - [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
@@ -78,6 +92,8 @@ For the moments, the ideas are :
 - [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321)
 - [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336)
 - [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234)
+- [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf)
+- [@kannes](https://github.com/kannes)
 
 
 ## Hashtag
