@@ -138,7 +138,7 @@ Christmas time, lots of chocolates, ThanksGiving
 All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
 
 ### ➡️ Step 3 : Launch (February)
-Launch the challenge on twitter with #30DayMapFailChallenge hashtag
+Launch the challenge on twitter
 
 ## To-do list
 - Automatically collect tweets from the event hashtag and make a page of tweets
