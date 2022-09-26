@@ -36,7 +36,7 @@ For the moments, the ideas are :
 14. Worst relief map
 15. Worst flow map
 16. Worst hand-drawn map
-17. Worst statistics map
+17. Worst statistical map
 18. Worst 3D Map
 19. Worst extrusion
 20. Worst understandability
@@ -59,27 +59,29 @@ For the moments, the ideas are :
 37. In a hurry
 38. ...Ooooh, you wanted to map the OTHER variable..? 
 39. Worst 3D map
-40. Worst elevation 
+40. Worst elevation map
 41. Worst city map 
-42. Worst marine map 
-43. The map with the highest number of hardly detectable errors (e.g. slight misplacements)
-44. Worst storymap (a bit of topic)
-45. Worst dynamic map 
-46. Worst thematic map
-47. Worst legend
-48. Worst scale bar
-49. Worst neat line
-50. Bad point symbols
-51. Horrible use of choropleth
-52. "You really should've normalized that"
-53. not colorblind safe
-54. poor raster rendering
-55. worst classification scheme
-56. worst font (this is easy, everybody just gets to use papyrus 🤪)
-57. "that really should have been like 3 different maps"
-58. Worst Valentine's Day Map' ? 💔
-59. Shocking correlations
-60. Could have been a bar chart
+42. Worst topographic map
+43. Worst marine map 
+44. The map with the highest number of hardly detectable errors (e.g. slight misplacements)
+45. Worst storymap (a bit off topic)
+46. Worst dynamic map 
+47. Worst thematic map
+48. Worst legend
+49. Worst scale bar
+50. Worst neat line
+51. Bad point symbols
+52. Horrible use of choropleth
+53. "You really should've normalized that"
+54. not colorblind safe
+55. poor raster rendering
+56. worst classification scheme
+57. worst font (this is easy, everybody just gets to use papyrus 🤪)
+58. "that really should have been like 3 different maps"
+59. Worst Valentine's Day Map' ? 💔
+60. Shocking correlations
+61. Could have been a bar chart
+62. Most cluttered map
 
 ### Contributors for this list of ideas
 - [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
