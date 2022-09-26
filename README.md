@@ -17,8 +17,8 @@ Also, February may be the worst month to make a challenge because :
 ## Hashtag
 To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
 
-## Categories
-For the moments, the categories are :
+## Ideas of categories
+For the moments, the ideas are :
 
 1. Worst colors
 2. Worst data
@@ -49,6 +49,43 @@ For the moments, the categories are :
 27. Superficial intelligence Map
 28. Worst Map for hiking
 29. Worst alternative to Google Maps and OpenStreetMap
+30. Worst labels
+31. Worst title
+32. Transparency solves everything
+33. Irrelevant variables
+34. I'm a Scientist
+35. Contrast
+36. Not enough/Too much Text
+37. In a hurry
+38. ...Ooooh, you wanted to map the OTHER variable..? 
+39. Worst 3D map
+40. Worst elevation 
+41. Worst city map 
+42. Worst marine map 
+43. The map with the highest number of hardly detectable errors (e.g. slight misplacements)
+44. Worst storymap (a bit of topic)
+45. Worst dynamic map 
+46. Worst thematic map
+47. Worst legend
+48. Worst scale bar
+49. Worst neat line
+50. Bad point symbols
+51. Horrible use of choropleth
+52. "You really should've normalized that"
+53. not colorblind safe
+54. poor raster rendering
+55. worst classification scheme
+56. worst font (this is easy, everybody just gets to use papyrus 🤪)
+57. "that really should have been like 3 different maps"
+58. Worst Valentine's Day Map' ? 💔
+59. Shocking correlations
+
+### Contributors
+- [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
+- [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873)
+- pokateo_[Idea 1](https://twitter.com/pokateo_/status/1574381451386273793) [Idea 2](https://twitter.com/helenmakesmaps/status/1574382373550047234)
+- [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321)
+- [@TheTomTurkey]https://twitter.com/TheTomTurkey/status/1574396907207950336
 
 ## 💡 Any good ideas for bad maps ?
 
@@ -57,8 +94,6 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 
 - We need ideas for categories (28)
 - We need catchy names for each category
-
-Some contributions are already [here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/New-ideas.md)
 
 ## Polls
 Some polls will be organized to select :
