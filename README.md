@@ -67,6 +67,7 @@ For the moments, the ideas are :
 59. Shocking correlations
 60. Could have been a bar chart
 61. World is distorted, not my projection
+62. Chuck Norris says : you do not need to know geography to be a cartographer
 
 ### Contributors for this list of ideas
 - [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
