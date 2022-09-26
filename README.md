@@ -130,6 +130,6 @@ All the energy is concentrated on digestion, none for the neurons. Perfect momen
 Launch the challenge on twitter with #30DayMapFailChallenge hashtag
 
 ## To-do list
-- Automatically collect tweets from the event hashtag and pake a page for it
-- Carefully select aweful maps and make a gallery
+- Automatically collect tweets from the event hashtag and make a page of tweets
+- Carefully select aweful maps and make it a gallery
 - Get twitter stats for the event hashtag
