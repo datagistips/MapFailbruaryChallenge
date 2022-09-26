@@ -120,10 +120,10 @@ Mental preparation for #30DayMapChallenge
 ### November
 #30DayMapChallenge
 
-### December
+### December : Growth of the belly
 Christmas time, lots of chocolates, ThanksGiving
 
-### January
+### January : Digestion
 All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
 
 ### ➡️ Step 3 : Launch (February)
