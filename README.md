@@ -1,7 +1,21 @@
 # 30DayMapFailChallenge 🗺️🤢🏆🌟
-The official repository for #30DayMapChallenge, a daily mapping challenge open to everyone who will fail in creating good maps.
+The official repository for #30DayMapFailChallenge, a daily mapping challenge open to everyone who will fail in creating good maps.
 
 The idea is for you to create the new worst map
+
+## February
+It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
+
+- February is 2 months after, November is 2 months before
+- November = 11, 1 + 1 = 2 and 02 is February
+
+Also, February may be the worst month to make a challenge because :
+
+- The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge)
+- People concentrate their energy on choosing a Valentine's Day gift
+
+## Hashtag
+To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
 
 ## Categories
 For the moments, the categories are :
@@ -41,18 +55,24 @@ For the moments, the categories are :
 Tell me on Google Forms : https://forms.gle/dVAGmcQt3Fcz5pGb8  
 Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChallenge/issues
 
-- We need ideas for categories (30 or 31)
+- We need ideas for categories (28)
 - We need catchy names for each category
-- A period (maybe the worst ?)
 
 Some contributions are already [here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/New-ideas.md)
 
+## Polls
+Some polls will be organized to select :
+
+- the best categories
+- the hashtag for the event (the poll will be on twitter)
+
 ## Steps
 ### Step 1 (End of September - October)
-Collect category ideas
+- Collect category ideas
+- Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
 
 ### Step 2 (October)
-Make a poll for suggested ideas
+Make a poll to select the worst ideas
 
-### Step 3 (Period to determine)
+### Step 3 (February)
 Launch the challenge on twitter with #30DayMapFailChallenge hashtag
