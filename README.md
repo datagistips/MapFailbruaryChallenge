@@ -88,6 +88,7 @@ For the moments, the ideas are :
 - [@pokateo_](https://twitter.com/pokateo_) : [Idea 1](https://twitter.com/pokateo_/status/1574381451386273793) [Idea 2](https://twitter.com/helenmakesmaps/status/1574382373550047234)
 - [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321)
 - [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336)
+- [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234)
 
 ## 💡 Any good ideas for bad maps ?
 
