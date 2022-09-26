@@ -81,7 +81,7 @@ For the moments, the ideas are :
 59. Shocking correlations
 60. Could have been a bar chart
 
-### Contributors
+### Contributors for this list of ideas
 - [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200)
 - [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873)
 - [@pokateo_](https://twitter.com/pokateo_) : [Idea 1](https://twitter.com/pokateo_/status/1574381451386273793) [Idea 2](https://twitter.com/helenmakesmaps/status/1574382373550047234)
@@ -90,6 +90,7 @@ For the moments, the ideas are :
 
 ## 💡 Any good ideas for bad maps ?
 
+Tell me on Twitter : https://twitter.com/datagistips/status/1574415985163075587  
 Tell me on Google Forms : https://forms.gle/dVAGmcQt3Fcz5pGb8  
 Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChallenge/issues
 
