@@ -84,9 +84,14 @@ For the moments, the ideas are :
 76. Drop shadow connoisseur
 77. A map for Simon Küstenmacher|Katapult Magazin|Tin Fischer|... to exploit
 78. Mapillarious experience
+70. Worst "this non-island country looks like an island" map
+80. Worst abuse of digital elevation applied to an antique map
+81. Worst Google Maps, etc. error (e.g. non-existent roads that people try to drive down with their GPS).
+82. Worst (to long/to many) Copyright Informations
+83. A map clearly made with ArcGIS© ℗®™
 
-### Contributors for this list of ideas (8)
-[@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_) : ([#1](https://twitter.com/pokateo_/status/1574381451386273793) [#2](https://twitter.com/helenmakesmaps/status/1574382373550047234)), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes)
+### Contributors for this list of ideas (10)
+[@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_) : ([#1](https://twitter.com/pokateo_/status/1574381451386273793) [#2](https://twitter.com/helenmakesmaps/status/1574382373550047234)), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday/status/1574629543616315393), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976)
 
 ## Hashtag
 To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
