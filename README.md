@@ -93,9 +93,18 @@ For the moments, the ideas are :
 86. Worst accidental(?) annexation of part of another territory
 87. Worst way to leave New Zealand off a map
 88. Worst airline route map
+89. Worst buffer?
+90. Label every address of every parcel (for my fellow local gov workers)
+91. Worst tube(r) map? 🥔⭕️
+92. Worst Twitter emoji map!!!
+93. Worst "sarcastic" map (e.g. electricity in the Roman Empire; population per capita)
+95. Population per capita 🤩
+96. Source : trust me bro
+97. Maybe Worst location map/area of study
+98. Egregious and unforgivable omissions: New Zealand, Aleutian Islands, UP Michigan, Scandinavia,  etc.
 
-### Contributors for the categories (11)
-[@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_) ([#1](https://twitter.com/pokateo_/status/1574381451386273793), [#2](https://twitter.com/helenmakesmaps/status/1574382373550047234)), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), @ron_halliday ([#1](https://twitter.com/ron_halliday/status/1574629543616315393), [#2](https://twitter.com/ron_halliday/status/1574719946080374785)), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976)
+### Contributors for the categories
+[@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf)
 
 ## Hashtag
 To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
