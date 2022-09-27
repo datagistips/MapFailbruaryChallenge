@@ -35,7 +35,6 @@ For the moments, the ideas are :
 27. Superficial intelligence Map
 28. Worst Map for hiking
 29. Worst alternative to Google Maps and OpenStreetMap
-30. Worst labels
 31. Worst title
 32. Transparency solves everything
 33. Irrelevant variables
