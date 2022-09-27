@@ -43,7 +43,6 @@ For the moments, the ideas are :
 36. Not enough/Too much Text
 37. In a hurry
 38. ...Ooooh, you wanted to map the OTHER variable..? 
-39. Worst 3D map
 40. Worst elevation map
 41. Worst city map 
 42. Worst topographic map
