@@ -82,7 +82,6 @@ For the moments, the ideas are :
 74. Might contain nuts
 75. Historic Map With Terrain Blender Render Bender
 76. Drop shadow connoisseur
-77. A map for Simon Küstenmacher|Katapult Magazin|Tin Fischer|... to exploit
 78. Mapillarious experience
 70. Worst "this non-island country looks like an island" map
 80. Worst abuse of digital elevation applied to an antique map
