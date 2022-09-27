@@ -101,7 +101,7 @@ For the moments, the ideas are :
 96. Source : trust me bro
 97. Maybe Worst location map/area of study
 98. Egregious and unforgivable omissions: New Zealand, Aleutian Islands, UP Michigan, Scandinavia,  etc.
-99. A hurricane track prediction map amended in sharpie
+99. A hurricane track prediction map amended in sharpie (Donal Trump inspiration : https://twitter.com/marinemaps/status/1574849272121593868)
 
 ### Contributors for the categories
 [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8)
