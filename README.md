@@ -101,6 +101,8 @@ For the moments, the ideas are :
 ## Hashtag
 To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
 
+[Choose the event hashtag on Twitter](https://twitter.com/datagistips/status/1574530858429841408)
+
 ## February
 It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
 
