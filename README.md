@@ -90,7 +90,7 @@ For the moments, the ideas are :
 82. Worst (to long/to many) Copyright Informations
 83. A map clearly made with ArcGIS© ℗®™
 84. Most boring map
-85. Worst "make a country look like its flag" classification map (but I get to judge this one for my birthday on February 21st, right? 😉)
+85. Worst "make a country look like its flag" classification map
 86. Worst accidental(?) annexation of part of another territory
 87. Worst way to leave New Zealand off a map
 88. Worst airline route map
