@@ -3,6 +3,8 @@ The official repository for #30DayMapFailChallenge, a daily mapping challenge op
 
 The idea is for you to create the new worst map
 
+🏛 Board of undirectors : [Kate (@pokateo_)](https://twitter.com/pokateo_), [Mathieu (@datagistips)](https://twitter.com/datagistips), [Jérémy (@mapperfr)](https://twitter.com/mapperfr)
+
 ## Ideas of categories
 The ideas are :
 
