@@ -159,7 +159,8 @@ All the energy is concentrated on digestion, none for the neurons. Perfect momen
 ### ➡️ Step 3 : Launch (February)
 Launch the challenge on twitter
 
-## To-do list
+## Ideas / Tooling / Scripting
 - Automatically collect tweets from the event hashtag and make a page of tweets
 - Carefully select aweful maps and make it a gallery
-- Get twitter stats for the event hashtag
+- Get twitter stats for the event hashtag, get most successful contributions
+- Make Midjourney or Dall-E participate to the challenge
