@@ -4,7 +4,7 @@ The official repository for #30DayMapFailChallenge, a daily mapping challenge op
 The idea is for you to create the new worst map
 
 ## Ideas of categories
-For the moments, the ideas are :
+The ideas are :
 
 1. Worst colors
 2. Worst data
@@ -107,7 +107,7 @@ For the moments, the ideas are :
 103. Worst spelling errors! Worst kerning errors
 104. Doritos Map of the US
 
-🗓 In October, a poll will select the 28 worst ideas
+🗓 Now, it's time for voting : in October, a poll will select the 28 worst ideas.
 
 ### Contributors for the categories
 [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8), [@stevefaeembra](https://twitter.com/stevefaeembra/), [@SArcPyle](https://twitter.com/SArcPyle), [@XenonGT](https://twitter.com/XenonGT)
