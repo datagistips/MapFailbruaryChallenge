@@ -160,10 +160,10 @@ All the energy is concentrated on digestion, none for the neurons. Perfect momen
 Launch the challenge on twitter
 
 ## Ideas / Tooling / Scripting
-- [] Automatically collect tweets from the event hashtag and make a page of tweets
-- [] Carefully select aweful maps and make it a gallery
-- [] Get twitter stats for the event hashtag, get most successful contributions
-- [] Make Midjourney or Dall-E participate to the challenge
-- [] Make a wordcloud
+- [ ] Automatically collect tweets from the event hashtag and make a page of tweets
+- [ ] Carefully select aweful maps and make it a gallery
+- [ ] Get twitter stats for the event hashtag, get most successful contributions
+- [ ] Make Midjourney or Dall-E participate to the challenge
+- [ ] Make a wordcloud
 - [x] Auto-generate Google Forms
 - [ ] Make a website in Comic Sans
