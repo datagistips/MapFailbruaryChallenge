@@ -106,6 +106,8 @@ For the moments, the ideas are :
 102. Map clearly made with Microsoft Paint
 103. Worst spelling errors! Worst kerning errors
 
+🗓 In October, a poll will select the 28 worst ideas
+
 ### Contributors for the categories
 [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8), [@stevefaeembra](https://twitter.com/stevefaeembra/), [@SArcPyle](https://twitter.com/SArcPyle)
 
@@ -134,19 +136,13 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - We need ideas for categories (28)
 - We need catchy names for each category
 
-## Polls
-Some polls will be organized to select :
-
-- the best categories
-- the hashtag for the event (the poll will be on twitter)
-
 ## Steps
 ### ➡️ Step 1 : Ideation (End of September - October)
 - Collect category ideas
 - Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
 
 ### ➡️ Step 2 : Selection (October)
-Make a poll to select the worst ideas
+Make a poll (Google Form) to select the worst ideas
 
 ### 0ctober
 Mental preparation for #30DayMapChallenge
