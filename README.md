@@ -162,4 +162,4 @@ Launch the challenge on twitter
 - [ ] Make Midjourney or Dall-E participate to the challenge
 - [ ] Make a wordcloud
 - [x] Auto-generate Google Forms
-- [ ] Make a website in Comic Sans
+- [x] Make a static website in Comic Sans with lots of shiny animated gifs.
