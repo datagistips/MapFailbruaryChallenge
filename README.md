@@ -5,7 +5,7 @@ The idea is for you to create the new worst map
 
 🏛 Board of undirectors : [Kate (@pokateo_)](https://twitter.com/pokateo_), [Mathieu (@datagistips)](https://twitter.com/datagistips), [Jérémy (@mapperfr)](https://twitter.com/mapperfr)
 
-## Ideas of categories
+## 🗺️🤢 Ideas of categories
 The ideas are :
 
 1. Worst colors
@@ -113,15 +113,15 @@ The ideas are :
 
 [Find the list as a Open Data + Self Data respectful + High Quality CSV file here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/Ideas-List.csv)
 
-### Contributors for the categories
+### 🐝 Contributors for the categories
 [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8), [@stevefaeembra](https://twitter.com/stevefaeembra/), [@SArcPyle](https://twitter.com/SArcPyle), [@XenonGT](https://twitter.com/XenonGT)
 
-## Hashtag
+## #Hashtag
 To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge
 
 [Choose the event hashtag on Twitter](https://twitter.com/datagistips/status/1574530858429841408)
 
-## February
+## 🗓 February
 It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
 
 - February is 2 months after, November is 2 months before
@@ -132,7 +132,7 @@ Also, February may be the worst month to make a challenge because :
 - The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge)
 - People concentrate their creative energy on a Valentine's Day gift
 
-## 💡 Any good ideas for bad maps ?
+## 💡 Any good ideas for bad maps ? [CLOSED]
 
 Tell me on Twitter : https://twitter.com/datagistips/status/1574415985163075587  
 Tell me on Google Forms : https://forms.gle/dVAGmcQt3Fcz5pGb8  
@@ -141,7 +141,7 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - We need ideas for categories (28)
 - We need catchy names for each category
 
-## Steps
+## 🐾 Steps
 ### ✅ Step 1 : Ideation (End of September - October)
 - Collect category ideas
 - Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
