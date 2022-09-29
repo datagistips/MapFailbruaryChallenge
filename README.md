@@ -163,3 +163,4 @@ Launch the challenge on twitter
 - [ ] Make a wordcloud
 - [x] Auto-generate Google Forms
 - [x] Make a static website in Comic Sans with lots of shiny animated gifs.
+- [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
