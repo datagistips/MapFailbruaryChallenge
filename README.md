@@ -143,11 +143,11 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 
 ## 🐾 Steps
 ### ✅ Step 1 : Ideation (End of September - October)
-- Collect category ideas
-- Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
+- [x] Collect category ideas
+- [ ] Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
 
 ### ❎ Step 2 : Selection (October)
-Make a poll (Google Form) to select the worst ideas
+- [ ] Make a poll (Google Form) to select the worst ideas
 
 ### 💤 0ctober till January
 - November : #30DayMapChallenge
@@ -155,7 +155,7 @@ Make a poll (Google Form) to select the worst ideas
 - January All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
 
 ### ❎ Step 3 : Launch (February)
-Launch the challenge on twitter
+- [ ] Launch the challenge on twitter
 
 ## Ideas / Tooling / Scripting
 - [ ] Automatically collect tweets from the event hashtag and make a page of tweets
