@@ -111,7 +111,7 @@ The ideas are :
 
 🗓 Now, it's time for voting : in October, a poll will select the 28 worst ideas.
 
-[List of ideas as a csv here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/Ideas-List.csv)
+[Find the list as a Open Data + Self Data respectful + High Quality CSV file here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/Ideas-List.csv)
 
 ### Contributors for the categories
 [@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8), [@stevefaeembra](https://twitter.com/stevefaeembra/), [@SArcPyle](https://twitter.com/SArcPyle), [@XenonGT](https://twitter.com/XenonGT)
