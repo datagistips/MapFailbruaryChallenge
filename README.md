@@ -160,9 +160,18 @@ Launch the challenge on twitter
 ## Ideas / Tooling / Scripting
 - [ ] Automatically collect tweets from the event hashtag and make a page of tweets
 - [ ] Carefully select aweful maps and make it a gallery
-- [ ] Get twitter stats for the event hashtag, get most successful contributions
+- [ ] Get twitter stats : get most successful contributions, most successful challenge, most active contributors
 - [ ] Make Midjourney or Dall-E participate to the challenge
 - [ ] Make a wordcloud
 - [x] Auto-generate Google Forms
 - [x] Make a static website in Comic Sans with lots of shiny animated gifs.
 - [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
+
+## Task list
+- Comm. : Launch
+- Comm. : Communicate daily on the challenge
+- Comm. : Retweet some contributions
+- Tech. : Update the Comic Sans website
+- Tech. : Get some stats
+- Comm. : close the challenge
+- Tech. : close the website
