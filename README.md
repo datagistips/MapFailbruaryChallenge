@@ -168,10 +168,10 @@ Launch the challenge on twitter
 - [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
 
 ## Task list
-- Comm. : Launch
-- Comm. : Communicate daily on the challenge
-- Comm. : Retweet some contributions
-- Tech. : Update the Comic Sans website
-- Tech. : Get some stats
-- Comm. : close the challenge
-- Tech. : close the website
+- Comm. : 📢 Launch
+- Comm. : 📢 Communicate daily on the challenge
+- Comm. : 📢 Retweet some contributions
+- Tech. : 🌐 Update the Comic Sans website
+- Tech. : 📉 Get some stats
+- Comm. : 📢 ❌ Close the challenge
+- Tech. : 🌐 ❌ Close the website
