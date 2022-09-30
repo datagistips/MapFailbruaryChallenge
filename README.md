@@ -166,12 +166,15 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - [x] Auto-generate Google Forms
 - [x] Make a static website in Comic Sans with lots of shiny animated gifs.
 - [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
+- [ ] [#Mappymeme](https://twitter.com/hashtag/mappymeme?src=hashtag_click)
 
 ## Task list
-- Comm. : 📢 Launch
-- Comm. : 📢 Communicate daily on the challenge
-- Comm. : 📢 Retweet some contributions
-- Tech. : 🌐 Update the Comic Sans website
-- Tech. : 📉 Get some stats
-- Comm. : 📢 ❌ Close the challenge
-- Tech. : 🌐 ❌ Close the website
+📢 : Communication  
+
+- 📢 Launch
+- 📢 Communicate daily on the challenge
+- 📢 Retweet some contributions
+- 🌐 Update the Comic Sans website
+- 📉 Get some stats
+- 📢 ❌ Close the challenge
+- 🌐 ❌ Close the website
