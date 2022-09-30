@@ -177,4 +177,3 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - 🌐 Update the Comic Sans website
 - 📉 Get some stats
 - 📢 ❌ Close the challenge
-- 🌐 ❌ Close the website
