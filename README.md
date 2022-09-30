@@ -124,13 +124,13 @@ To communicate on social media, hashtag could be #30DayMapFailChallenge or #MapF
 ## 🗓 February
 It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
 
-- February is 2 months after, November is 2 months before
-- November = 11, 1 + 1 = 2 and 02 is February
+- February is 2️⃣ months after, November is 2️⃣ months before
+- November = 1️⃣1️⃣, 1️⃣ + 1️⃣ = 2️⃣ and 0️⃣2️⃣ is February
 
 Also, February may be the worst month to make a challenge because :
 
-- The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge)
-- People concentrate their creative energy on a Valentine's Day gift
+- The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge 🤡)
+- People concentrate their creative energy on a Valentine's Day gift 💔
 
 ## 💡 Any good ideas for bad maps ? [CLOSED]
 
@@ -166,7 +166,7 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - [x] Auto-generate Google Forms
 - [x] Make a static website in Comic Sans with lots of shiny animated gifs.
 - [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
-- [ ] [#Mappymeme](https://twitter.com/hashtag/mappymeme?src=hashtag_click)
+- [ ] [#mappymeme](https://twitter.com/hashtag/mappymeme?src=hashtag_click)
 
 ## Task list
 📢 : Communication  
