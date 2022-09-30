@@ -157,7 +157,7 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 ### ❎ Step 3 : Launch (February)
 - [ ] Launch the challenge on twitter
 
-## Ideas / Tooling / Scripting
+##  💡 Ideas / 🛠 Tooling / 🛠 Scripting
 - [ ] Automatically collect tweets from the event hashtag and make a page of tweets
 - [ ] Carefully select aweful maps and make it a gallery
 - [ ] Get twitter stats : get most successful contributions, most successful challenge, most active contributors
@@ -168,7 +168,7 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
 - [ ] [#mappymeme](https://twitter.com/hashtag/mappymeme?src=hashtag_click)
 
-## Task list
+## 🎯 Task list
 📢 : Communication  
 
 - 📢 Launch
