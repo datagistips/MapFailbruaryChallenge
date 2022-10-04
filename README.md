@@ -170,6 +170,8 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - [x] Make a static website in Comic Sans with lots of shiny animated gifs.
 - [ ] Embed tweets in R Markdown : https://github.com/gadenbuie/tweetrmd
 - [ ] [#mappymeme](https://twitter.com/hashtag/mappymeme?src=hashtag_click)
+- [ ] Create a picture with all the challenges for the annoucement
+- [ ] Create a @MapFailbruaryChallenge twitter account, see bots
 
 ## 🎯 Task list
 📢 : Communication  
