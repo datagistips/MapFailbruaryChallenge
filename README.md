@@ -174,7 +174,7 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - [ ] Create a @MapFailbruaryChallenge twitter account, see bots
 
 ## 🎯 Task list
-📢 : Communication  
+📢 = Communication  
 
 - 📢 Launch
 - 📢 Communicate daily on the challenge
