@@ -147,7 +147,7 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 ## 🐾 Steps
 ### ✅ Step 1 : Ideation (End of September - October)
 - [x] Collect category ideas
-- [ ] Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge)
+- [x] Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge) => #MapFailbruaryChallenge
 
 ### ❎ Step 2 : Selection (October)
 - [ ] Make a poll (Google Form) to select the worst ideas
