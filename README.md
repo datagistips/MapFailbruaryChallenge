@@ -90,7 +90,7 @@ The ideas are :
 80. Worst abuse of digital elevation applied to an antique map
 81. Worst Google Maps, etc. error (e.g. non-existent roads that people try to drive down with their GPS).
 82. Worst (to long/to many) Copyright Informations
-83. A map clearly made with ArcGIS© ℗®™
+83. A map clearly made with ArcGIS©℗®™ or QGIS©℗®™ or MapInfo©℗®™
 84. Most boring map
 85. Worst "make a country look like its flag" classification map
 86. Worst accidental(?) annexation of part of another territory
