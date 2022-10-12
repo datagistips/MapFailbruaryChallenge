@@ -145,19 +145,27 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - We need catchy names for each category
 
 ## 🐾 Steps
-### ✅ Step 1 : Ideation (End of September - October)
-- [x] Collect category ideas
+### End of September - October : Ideation
+- [x] Collect 100 category ideas ([done](https://github.com/datagistips/30DayMapFailChallenge#%EF%B8%8F-ideas-of-categories))
 - [x] Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge) => #MapFailbruaryChallenge
 
-### ❎ Step 2 : Selection (October)
-- [ ] Make a poll (Google Form) to select the worst ideas
+### 17th October : Selection
+- [ ] Run a poll (Google Form) to select the worst ideas
 
-### 💤 0ctober till January
-- November : #30DayMapChallenge
-- December : Christmas time, lots of chocolates, ThanksGiving
-- January All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
+### November : #30DayMapChallenge
+Participate to the #30DayMapChallenge if you're a good cartographer. Otherwise, wait for Febreary's challenge.
 
-### ❎ Step 3 : Launch (February)
+### End of December
+- [ ] Poll closing. Definite list of 28 categories.
+
+Christmas time, lots of chocolates, ThanksGiving
+
+### January
+xJanuary All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
+
+- [ ] Communication
+
+### 🌩️ February : Launch
 - [ ] Launch the challenge on twitter
 
 ##  💡 Ideas / 🛠 Tooling / 🛠 Scripting
