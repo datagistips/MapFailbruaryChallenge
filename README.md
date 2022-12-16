@@ -150,20 +150,22 @@ Tell me with a github ticket : https://github.com/datagistips/30DayMapFailChalle
 - [x] Select official hashtag (#30DayMapFailChallenge or #MapFailbruaryChallenge or #FailbruaryMapChallenge) => #MapFailbruaryChallenge
 
 ### 17th October : Selection
-- [ ] Run a poll (Google Form) to select the worst ideas
+- [x] Run a poll (Google Form) to select the worst ideas
 
 ### November : #30DayMapChallenge
 Participate to the #30DayMapChallenge if you're a good cartographer. Otherwise, wait for Febreary's challenge.
 
 ### End of December
-- [ ] Poll closing. Definite list of 28 categories.
+- [x] Poll closing. 
+- [ ] Analyze the result and select the 28 categories. Check [the data](../data) and [the notebook](../notebooks) 
+- [ ] Communication on the poll results 1/2 (Kate)
 
 Christmas time, lots of chocolates, ThanksGiving
 
 ### January
-xJanuary All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
+All the energy is concentrated on digestion, none for the neurons. Perfect moment to mentally prepare a stupid challenge.
 
-- [ ] Communication
+- [ ] Communication on the poll results 2/2 (Kate)
 
 ### 🌩️ February : Launch
 - [ ] Launch the challenge on twitter
