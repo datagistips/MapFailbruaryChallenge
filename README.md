@@ -1,5 +1,5 @@
-# 30DayMapFailChallenge 🗺️🤢🏆🌟
-The official repository for #30DayMapFailChallenge, a daily mapping challenge open to everyone who will FAIL in creating good maps.
+# MapFailbruaryChallenge 🗺️🤢🏆🌟
+The official repository for #MapFailbruaryChallenge, a daily mapping challenge open to everyone who will FAIL in creating good maps.
 
 The idea is for you to create the new worst map
 
@@ -8,23 +8,20 @@ The idea is for you to create the new worst map
 - [Jérémy (@mapperfr)](https://twitter.com/mapperfr)
 -  [Mathieu (@datagistips)](https://twitter.com/datagistips)
 
-📣 To communicate on social media, choose #30DayMapFailChallenge
+📣 To communicate on social media, choose #MapFailbruaryChallenge
 
 ## 🗺️🤢 Ideas of categories
-[Find the list as a Open Data + Self Data respectful + High Quality CSV file here](https://github.com/datagistips/30DayMapFailChallenge/blob/main/data/01_Ideas/Ideas-List.csv)
+[Find the list as a Open Data + Self Data respectful + High Quality CSV file here](https://github.com/datagistips/MapFailbruaryChallenge/blob/main/data/01_Ideas/Ideas-List.csv)
 
 ⚡ Now, we're selecting the 28 worst ideas.
 
 ## 🗓 February
-It will be in February considering #30DayMapChallenge takes place in November and #30DayMapFailChallenge is the opposite.
+It will be in February considering #30DayMapChallenge takes place in November and #MapFailbruaryChallenge is the opposite.
 
 - February is 2️⃣ months after, November is 2️⃣ months before
 - November = 1️⃣1️⃣, 1️⃣ + 1️⃣ = 2️⃣ and 0️⃣2️⃣ is February
 
-Also, February may be the worst month to make a challenge because :
-
-- The number of days is never the same. So, keeping the name #30DayMapFailChallenge would be very stupid (like the challenge 🤡)
-- People concentrate their creative energy on a Valentine's Day gift 💔
+Also, February may be the worst month to make a challenge because people concentrate their creative energy on a Valentine's Day gift 💔
 
 ## 📄 Outputs
 1. [Twitter poll for the hashtag selection](https://twitter.com/datagistips/status/1574530858429841408)
