@@ -11,7 +11,7 @@ Thanks [Kate (@pokateo_)](https://twitter.com/pokateo_) for this wonderful poste
 
 🏛 Board of undirectors (3) : 
 - [Kate (@pokateo_)](https://twitter.com/pokateo_)
-- [Jérémy (@mapperfr)](https://mapstodon.space/@jeremy)
+- [Jérémy (@jeremy)](https://mapstodon.space/@jeremy)
 - [Mathieu (@datagistips)](https://twitter.com/datagistips)
 
 📣 To communicate on social media, choose #MapFailbruaryChallenge
