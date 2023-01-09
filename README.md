@@ -1,7 +1,7 @@
 # MapFailbruaryChallenge 🗺️🤢🏆🌟
 The official repository for #MapFailbruaryChallenge, a daily mapping challenge open to everyone who will FAIL in creating good maps.
 
-The idea is for you to create the new worst map.
+The idea is to create the worst map possible.
 
 One day, one category across February. Here are the categories :
 
@@ -11,8 +11,8 @@ Thanks [Kate (@pokateo_)](https://twitter.com/pokateo_) for this wonderful poste
 
 🏛 Board of undirectors (3) : 
 - [Kate (@pokateo_)](https://twitter.com/pokateo_)
-- [Jérémy (@mapperfr)](https://twitter.com/mapperfr)
--  [Mathieu (@datagistips)](https://twitter.com/datagistips)
+- [Jérémy (@mapperfr)](https://mapstodon.space/@jeremy)
+- [Mathieu (@datagistips)](https://twitter.com/datagistips)
 
 📣 To communicate on social media, choose #MapFailbruaryChallenge
 
@@ -36,7 +36,7 @@ Also, February may be the worst month to make a challenge because people concent
 [Here, you'll find the team workspace](pages/For-the-team.md)
 
 ## 🐝 Contributors for the categories
-[@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://twitter.com/mapperfr/status/1573584627645775873), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8), [@stevefaeembra](https://twitter.com/stevefaeembra/), [@SArcPyle](https://twitter.com/SArcPyle), [@XenonGT](https://twitter.com/XenonGT)
+[@ocomarri](https://twitter.com/ocomarri/status/1573581243190579200), [@mapperfr](https://mapstodon.space/@jeremy), [@pokateo_](https://twitter.com/pokateo_), [@DevinMLea](https://twitter.com/DevinMLea/status/1574387314532536321), [@TheTomTurkey](https://twitter.com/TheTomTurkey/status/1574396907207950336), [@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1574382373550047234), [@julgaf (Julien Gaffuri)](https://twitter.com/julgaf), [@kannes](https://github.com/kannes), [@ron_halliday](https://twitter.com/ron_halliday), [@geoObserver_](https://twitter.com/geoObserver_/status/1574593079847550976), [@antoine_halin](https://twitter.com/antoine_halin/), [@DOh_Bams](https://twitter.com/DOh_Bams), [@BranchTwigLeaf](https://twitter.com/BranchTwigLeaf), [@gisn8](https://twitter.com/gisn8), [@stevefaeembra](https://twitter.com/stevefaeembra/), [@SArcPyle](https://twitter.com/SArcPyle), [@XenonGT](https://twitter.com/XenonGT)
 
 ## 💾 Archives
 [Here, you'll find the archives](pages/Archives.md)
